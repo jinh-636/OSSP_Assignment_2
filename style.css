@@ -1,0 +1,50 @@
+body {
+    font-family: "NanumGothic";
+}
+
+.top .navbar {
+    background-color: whitesmoke;
+}
+
+.top p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.middle {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.middle .card {
+    width: 15rem;
+    margin-bottom: 1rem;
+}
+
+.middle .card img {
+    width: 13rem;
+}
+
+.middle .card .card-body {
+    padding-top: 0;
+}
+
+#info img {
+    margin-left: 1rem;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+#info th {
+    padding-right: 1.5rem;
+}
+
+#info td {
+    padding-right: 1.5rem;
+}
+
+h3 {
+    margin-top: 24px;
+}
